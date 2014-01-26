@@ -1,0 +1,37 @@
+.border {
+	float:left;
+	position:relative;
+	width:150px;
+	height:150px;
+	border:1px solid #ccc;
+	margin:.5em 10px .5em 0;
+	padding: .5em;
+	background: #FFF;
+}
+.border span {
+	margin:0;
+	position:absolute;
+	top:-12px;
+	left:-47px;
+	clip:rect(20px 205px 170px 55px);
+}	
+html{
+	background: url(images/woodTexture.jpg);
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+img{
+    height: 100%;
+}
+
+.scale-v{
+	height: 310px;
+	position: absolute;
+	top: -55px;
+}
+
+.scale-h{
+	height: 170px;
+	position: absolute;
+	top: 10px;
+}

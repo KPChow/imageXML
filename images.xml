@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<images>
+	<image id="pic-1" class="scale-v">
+		<caption>Bristol Lloyds TSB Building</caption>
+		<filename>images/pic-1.jpg</filename>
+	</image>
+	<image id="pic-2" class="scale-h">
+		<caption>Bristol Exploratory</caption>
+		<filename>images/pic-2.jpg</filename>
+	</image>
+	<image id="pic-3" class="scale-h">
+		<caption>Bristol Harbourside</caption>
+		<filename>images/pic-3.jpg</filename>
+	</image>
+	<image id="pic-4" class="scale-v">
+		<caption>Alleyway outside St. Nicholas Market</caption>
+		<filename>images/pic-4.jpg</filename>
+	</image>
+	<image id="pic-5" class="scale-h">
+		<caption>Banksy's Exhibition 1</caption>
+		<filename>images/pic-5.jpg</filename>
+	</image>
+	<image id="pic-6" class="scale-h">
+		<caption>Banksy's Exhibition 2</caption>
+		<filename>images/pic-6.jpg</filename>
+	</image>
+	<image id="pic-7" class="scale-v">
+		<caption>Bristol Balloon Fiesta</caption>
+		<filename>images/pic-7.jpg</filename>
+	</image>
+	<image id="pic-8" class="scale-h">
+		<caption>Peru - Inca Trail 1</caption>
+		<filename>images/pic-8.jpg</filename>
+	</image>
+	<image id="pic-9" class="scale-v">
+		<caption>Portugal, Lisbon 1</caption>
+		<filename>images/pic-9.jpg</filename>
+	</image>
+	<image id="pic-10" class="scale-h">
+		<caption>Portugal, Lisbon 2</caption>
+		<filename>images/pic-10.jpg</filename>
+	</image>
+	<image id="pic-11" class="scale-v">
+		<caption>Portugal, Lisbon 3</caption>
+		<filename>images/pic-11.jpg</filename>
+	</image>
+	<image id="pic-12" class="scale-v">
+		<caption>Hong Kong 1</caption>
+		<filename>images/pic-12.jpg</filename>
+	</image>
+	<image id="pic-13" class="scale-h">
+		<caption>Peru - Inca Trail 2</caption>
+		<filename>images/pic-13.jpg</filename>
+	</image>
+	<image id="pic-14" class="scale-v">
+		<caption>Silk Road</caption>
+		<filename>images/pic-14.jpg</filename>
+	</image>
+	<image id="pic-15" class="scale-h">
+		<caption>Ireland, Dublin</caption>
+		<filename>images/pic-15.jpg</filename>
+	</image>
+	<image id="pic-16" class="scale-h">
+		<caption>Bristol Nightlife 1</caption>
+		<filename>images/pic-16.jpg</filename>
+	</image>
+	<image id="pic-17" class="scale-v">
+		<caption>Bristol Nightlife 2</caption>
+		<filename>images/pic-17.jpg</filename>
+	</image>
+	<image id="pic-18" class="scale-h">
+		<caption>Hong Kong 2</caption>
+		<filename>images/pic-18.jpg</filename>
+	</image>
+	<image id="pic-19" class="scale-h">
+		<caption>Ireland, Galway</caption>
+		<filename>images/pic-19.jpg</filename>
+	</image>
+	<image id="pic-20" class="scale-h">
+		<caption>China</caption>
+		<filename>images/pic-20.jpg</filename>
+	</image>
+	<image id="pic-21" class="scale-h">
+		<caption>Banksy</caption>
+		<filename>images/pic-21.jpg</filename>
+	</image>
+	<image id="pic-22" class="scale-h">
+		<caption>Silk Road 2</caption>
+		<filename>images/pic-22.jpg</filename>
+	</image>
+	<image id="pic-23" class="scale-v">
+		<caption>Wales, Snowdonia, Tryfan 1</caption>
+		<filename>images/pic-23.jpg</filename>
+	</image>
+	<image id="pic-24" class="scale-h">
+		<caption>Wales, Snowdonia, Tryfan 2</caption>
+		<filename>images/pic-24.jpg</filename>
+	</image>
+</images>
